@@ -129,31 +129,7 @@ Weekly productivity & task management application with:
 
 # 📊 GitHub Stats
 
-<div align="center">
-
-<img
-height="170em"
-src="https://github-readme-stats.vercel.app/api?username=felixoctanielte&show_icons=true&theme=radical"
-/>
-
-<img
-height="170em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixoctanielte&layout=compact&theme=radical"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-src="https://github-readme-streak-stats.herokuapp.com?user=felixoctanielte&theme=radical"
-/>
-
-</div>
-```
-
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felixoctanielte&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixoctanielte&layout=compact&theme=tokyonight&hide_border=true" /> <img src="https://streak-stats.demolab.com?user=felixoctanielte&theme=tokyonight&hide_border=true" /> </div>
 
 ---
 
