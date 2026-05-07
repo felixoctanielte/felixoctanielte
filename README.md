@@ -1,4 +1,3 @@
-id="wpkjlwm"
 <h1 align="left">
   <b>Hi, I'm Felix Octaniel Telaumbanua</b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
