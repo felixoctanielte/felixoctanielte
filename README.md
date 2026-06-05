@@ -86,46 +86,6 @@
 </tr>
 </table>
 
----
-
-# 🚀 Featured Projects
-
-## 🤖 AI Assistant Platform
-AI-powered assistant with:
-- Voice & Text Interaction
-- Research Assistance
-- Smart Decision Making
-- React + FastAPI Architecture
-
----
-
-## 🛍️ AR Virtual Try-On
-Augmented Reality based virtual try-on application for e-commerce platforms.
-
----
-
-## 👓 Smart Glasses AI
-AI-powered smart glasses for visually impaired users to recognize surrounding environments.
-
----
-
-## 💼 ERP Marketplace Integration
-Marketplace integration system using Frappe/ERPNext:
-- Shopee
-- TikTok Shop
-- Lazada
-- Warehouse Synchronization
-
----
-
-## 📅 MyWeekPlan
-Weekly productivity & task management application with:
-- Drag & Drop Calendar
-- React + MongoDB
-- Real-time task scheduling
-
----
-
 # 📊 GitHub Stats
 
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felixoctanielte&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixoctanielte&layout=compact&theme=tokyonight&hide_border=true" /> <img src="https://streak-stats.demolab.com?user=felixoctanielte&theme=tokyonight&hide_border=true" /> </div>
