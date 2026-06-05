@@ -88,7 +88,8 @@
 
 # 📊 GitHub Stats
 
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felixoctanielte&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixoctanielte&layout=compact&theme=tokyonight&hide_border=true" /> <img src="https://streak-stats.demolab.com?user=felixoctanielte&theme=tokyonight&hide_border=true" /> </div>
+<div align="center"> 
+  <img src="https://streak-stats.demolab.com?user=felixoctanielte&theme=tokyonight&hide_border=true" /> </div>
 
 ---
 
