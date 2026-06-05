@@ -117,12 +117,10 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=felixoctanie
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://www.instagram.com/felixoctanielte/" target="_blank">
+<a href="https://www.instagram.com/felixdlw/" target="_blank">
 <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
-<a href="https://discord.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=discord" />
 </a>
 
 </p>
