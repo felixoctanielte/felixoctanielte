@@ -19,12 +19,11 @@
 - 🚀 Currently working on:
   - AI Assistant Platform
   - ERP & Marketplace Integration
-  - AR Virtual Try-On
   - Smart Glasses AI for visually impaired users
 - 🧠 Interested in:
   - AI Engineering
-  - Cybersecurity
   - Machine Learning
+  - Blockchain 
   - Web Development
   - Cloud & DevOps
 - 🏆 Hackathon Enthusiast
@@ -54,7 +53,7 @@
 <tr>
 <td><b>Backend</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,laravel,django,spring" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,laravel,djang" />
 </td>
 </tr>
 
@@ -68,7 +67,7 @@
 <tr>
 <td><b>DevOps & Cloud</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,jenkins,githubactions,terraform" />
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp,azure,jenkins,githubactions,terraform" />
 </td>
 </tr>
 
@@ -82,7 +81,7 @@
 <tr>
 <td><b>Tools</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,postman,vscode,figma,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,linux" />
 </td>
 </tr>
 </table>
